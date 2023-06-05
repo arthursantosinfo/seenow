@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://aslijob.com/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/haya55cez?key=34e2e7901d0ec5f419ea9832fd81f4ea`
 				}`,
 			},
 		};
